@@ -1,0 +1,8 @@
+.test {
+  font-family: "Montserrat";
+  color: gold;
+  font-weight: bold;
+  font-size: 25px;
+  cursor: pointer;
+  flex: 1;
+}
